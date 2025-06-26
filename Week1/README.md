@@ -62,15 +62,8 @@ This week, I followed the [Python Tutorial for Beginners by Telusko](https://www
 
 - Worked with virtual environments and managed packages using `pip`.
 - Practiced debugging in PyCharm.
-- Built small projects combining Python, SQL, and Django.
 
 ---
-
-## Next Steps
-
-- Build a full Django CRUD application.
-- Learn Django forms, user authentication, and REST APIs.
-- Continue practicing problem-solving and Python challenges.
 
 
 
