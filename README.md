@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the outcome of a 9-week structured program that began with Python foundations and progressed into real-time face detection and recognition using machine learning and computer vision. The goal was to build a practical understanding of how intelligent systems process, analyze, and identify faces in real-world environments.
+This project is the outcome of a 7-week structured program that began with Python foundations and progressed into real-time face detection and recognition using machine learning and computer vision. The goal was to build a practical understanding of how intelligent systems process, analyze, and identify faces in real-world environments.
 
 By combining libraries like NumPy, Pandas, OpenCV with techniques such as regression, gradient descent, and face embeddings, this project culminates in a functional, interactive face recognition engine.
 
